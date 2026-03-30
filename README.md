@@ -23,8 +23,9 @@ This project directly implements concepts from the course modules:
 - `README.md`: Project documentation.
 - `.gitignore`: Ensures system files are not tracked.
 
-
 Code and sample output:
+
+
 <img width="802" height="871" alt="Screenshot 2026-03-29 204954" src="https://github.com/user-attachments/assets/830bdda9-4ba9-4062-95fe-c14c34e33610" />
 <img width="767" height="504" alt="Screenshot 2026-03-29 205021" src="https://github.com/user-attachments/assets/06f19afe-fa56-465f-9801-5d16ee777c1d" />
 <img width="571" height="461" alt="Screenshot 2026-03-29 205249" src="https://github.com/user-attachments/assets/6bca8fab-cd44-4227-95c9-17777d3df8e4" />
